@@ -1,0 +1,51 @@
+h1{
+	line-height: 200%;	
+	font-family:Verdana;
+    color:#ffffff;
+    text-shadow: 1px 2px #dedede;
+    background-image: url(lilfish.gif);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+body{
+	color:#460daf;
+	background-color:#ffffff;
+	font-family: verdana;
+	
+}
+nav{
+	font-weight:bold;
+	font-size:1.1em;
+}
+footer{
+	font-size:.70em;
+}
+#wrapper{
+	width:80%;
+	margin-left: auto;
+    margin-right: auto;
+}
+.heading-color{
+    color:#003f6e;
+    text-shadow: #aaa;
+}
+.headin-color-2{
+    color:#2a2ac0;
+    text-shadow:1px 2px #aaa;
+}
+.nav-links{
+  text-decoration:none ;    
+}
+a.nav-links:visited{
+    color:#037aba;
+}
+a.nav-links:link{
+    color:#2a2ac0;
+}
+.error{
+    color: #ff0000;
+}
+
+
